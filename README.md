@@ -4,7 +4,11 @@ An app development workshop presented by VandyHacks!
 
 ## Getting Started
 
-1. Download dependencies
+1. change directory to caption-app folder
+   ```bash
+   cd caption-app
+   ```
+2. Download dependencies
    ```bash
    npm install
    ```
